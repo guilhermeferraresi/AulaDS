@@ -1,0 +1,16 @@
+﻿@*O @model indica que será utilizado um modelo "Objeto"/ Models indica qual o modelo que irá ser utilizado. É o caminho onde se encontra a classe/modelo*@
+@model AppTerceiro.Models.Pessoa
+
+
+<h1>@ViewData["Title"]</h1>
+
+<main aria-labelledby="tittle">
+    <h2>Id:@Model.Id</h2>
+    <h2>Nome:@Model.Nome</h2>
+    <h2>Sexo:@Model.Sexo</h2>
+    <hr />
+    <h2>Código:@ViewBag.Id</h2>
+    <h2>Nome:@ViewBag.Nome</h2>
+    <h2>Sexo:@ViewBag.Sexo</h2>
+</main>
+
