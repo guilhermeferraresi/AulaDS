@@ -9,5 +9,11 @@
     <h2>Nome:@Model.Nome</h2>
     <h2>CNPJ:@Model.CNPJ</h2>
     <h2>Inscrição Estadual:@Model.IE</h2>
+    <br />
+    <div>
+        @if(TempData["Id"]!= null){
+            <h4> Código: @TempData["Id"] Nome: @TempData["Nome"] CNPJ: @TempData["CNPJ"] IE: @TempData["IE"]</h4>
+        }    
+</div>
 </main>
 

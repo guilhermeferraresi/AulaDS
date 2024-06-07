@@ -1,0 +1,29 @@
+﻿@model AppTerceiro.Models.Pessoa
+@{
+    ViewData["Title"] = "Pessoa";
+}
+
+<h1>Pessoa</h1>
+<form action="ConsultarPessoa" method="post">
+
+    <div>
+        <label for="PessoaID">Código</label>
+    </div>
+
+    <div>
+        <input type="number" value="@Model.Id" name="Id"/>
+    </div>
+    <br />
+    <div>
+        <label for="PessoaNome"></label>
+        <input type="text" value="@Model.Nome" name="Nome"/>
+     </div>
+     <br/>
+     <div>
+         <label for="PessoSexo">Sexo</label>
+         <input type="text" value="@Model.Sexo" name="Sexo"/>
+     </div>
+     <div>
+         <input type="submit" value="Cadastrar"/>
+     </div>
+</form>

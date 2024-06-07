@@ -18,7 +18,7 @@ namespace AppTerceiro.Controllers
             Fisica fisica = new Fisica
             {
                 Id=12,
-                Nome = "Martin Luther King Jr",
+                Nome = "Martin Burger King Jr",
                 Sexo = 'F',
                 CPF = 1945,
                 RG = 69696969,
@@ -64,6 +64,45 @@ namespace AppTerceiro.Controllers
             return View(juridica);
         }
 
+        public IActionResult ExemploTempData()
+            //O Break Point pausa a execução do deputador definindo pontos de interrupção
+        {
+            Juridica juridica = new Juridica();
+            juridica.Id = 2005;
+            juridica.Nome = "Shaolin Revive Porco";
+            juridica.CNPJ = 09876543212345;
+            juridica.IE = 987652345676;
 
+            TempData["Id"] = juridica.Id;
+            TempData["Nome"] = juridica.Nome;
+            TempData["CNPJ"] = Convert.ToString( juridica.CNPJ);
+            TempData["IE"] = Convert.ToString( juridica.IE);
+
+            return RedirectToAction("Juridica");
+        }
+
+        public IActionResult Pessoa()
+        {
+            Pessoa Objpessoa = new Pessoa();
+            return View(Objpessoa);
+        }
+        /*
+        [HttpPost]
+        public IActionResult ConsultarPessoa(IFormCollection pessoa)
+        {
+            ViewBag.Id = pessoa["Id"];
+            ViewBag.Nome = pessoa["Nome"];
+            ViewBag.Sexo = pessoa["Sexo"];
+            return View();
+        }
+        */
+        [HttpPost]
+        public IActionResult ConsultarPessoa(Pessoa pessoa)
+        {
+            ViewBag.Id = pessoa.Id;
+            ViewBag.Nome = pessoa.Nome;
+            ViewBag.Sexo = pessoa.Sexo;
+            return View();
+        }
+       }
     }
-}

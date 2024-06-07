@@ -223,3 +223,4 @@ C:\Users\2ds\Desktop\AppTerceiro\AppTerceiro\bin\Debug\net8.0\runtimes\win\lib\n
 C:\Users\2ds\Desktop\AppTerceiro\AppTerceiro\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\2ds\Desktop\AppTerceiro\AppTerceiro\obj\Debug\net8.0\AppTerceiro.csproj.AssemblyReference.cache
 C:\Users\2ds\Desktop\AppTerceiro\AppTerceiro\obj\Debug\net8.0\AppTerce.E9E07467.Up2Date
+C:\Users\2ds\Desktop\AppTerceiro\AppTerceiro\obj\Debug\net8.0\AppTerceiro.sourcelink.json

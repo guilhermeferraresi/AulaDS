@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\views\\home\\pessoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\pessoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\views\\home\\consultarpessoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\consultarpessoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\views\\home\\juridica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\juridica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\models\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\juridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|c:\\users\\2ds\\desktop\\appterceiro\\appterceiro\\models\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D2A21C-9BEE-4011-8BDA-A83E0F9B6534}|AppTerceiro\\AppTerceiro.csproj|solutionrelative:appterceiro\\models\\fisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\Pessoa.cshtml",
+              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Pessoa.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\Pessoa.cshtml",
+              "RelativeToolTip": "AppTerceiro\\Views\\Home\\Pessoa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T13:25:47.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Juridica.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\Juridica.cshtml",
+              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Juridica.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\Juridica.cshtml",
+              "RelativeToolTip": "AppTerceiro\\Views\\Home\\Juridica.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T12:09:16.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppTerceiro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppTerceiro\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAmwF0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:31:40.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Program.cs",
+              "RelativeDocumentMoniker": "AppTerceiro\\Program.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Program.cs",
+              "RelativeToolTip": "AppTerceiro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:02:20.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "AppTerceiro\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-26T12:30:44.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppTerceiro\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppTerceiro\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-26T13:02:10.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppTerceiro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T13:29:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Fisica.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Models\\Fisica.cs",
+              "RelativeDocumentMoniker": "AppTerceiro\\Models\\Fisica.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Models\\Fisica.cs",
+              "RelativeToolTip": "AppTerceiro\\Models\\Fisica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:15:40.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppTerceiro\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T13:04:50.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AppTerceiro\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T11:42:18.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Juridica.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Models\\Juridica.cs",
+              "RelativeDocumentMoniker": "AppTerceiro\\Models\\Juridica.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Models\\Juridica.cs",
+              "RelativeToolTip": "AppTerceiro\\Models\\Juridica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:20:41.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AppTerceiro\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Models\\Pessoa.cs",
+              "RelativeToolTip": "AppTerceiro\\Models\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:13:45.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultarPessoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\ConsultarPessoa.cshtml",
+              "RelativeDocumentMoniker": "AppTerceiro\\Views\\Home\\ConsultarPessoa.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\AppTerceiro\\AppTerceiro\\Views\\Home\\ConsultarPessoa.cshtml",
+              "RelativeToolTip": "AppTerceiro\\Views\\Home\\ConsultarPessoa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T12:25:43.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
